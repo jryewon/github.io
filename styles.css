@@ -73,3 +73,12 @@ main {
     border-bottom: none;
     padding-top: 2rem;
 }
+.blog-post {
+    border: 1px solid darkseagreen;
+    border-radius: 5px;
+    margin: 2rem 0;
+    padding: 2rem;
+}
+.byline {
+    color: darkseagreen;
+}
